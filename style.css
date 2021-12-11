@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    ;
+}
+h1{ 
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+div{
+    text-align: center;
+}
+p{  
+    border: 70px solid goldenrod; 
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    height: 70%;
+    width: 35%;
+    text-align: center;
+    border-radius: 10px;
+}
